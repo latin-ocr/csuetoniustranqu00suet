@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./csuetoniustranqu00suet_1099.png"; bbox 0 0 2504 3425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 243 692 2431 879">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 243 692 2431 879">
+     <span class='ocr_line' id='line_1_1' title="bbox 243 692 2431 879; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 243 723 414 879; x_wconf 87' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_2' title='bbox 540 692 2431 878; x_wconf 76' lang='lat' dir='ltr'><strong>SUETONIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 463 1045 2258 1171">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 463 1045 2258 1171">
+     <span class='ocr_line' id='line_1_2' title="bbox 463 1045 2258 1171; baseline -0.003 -35"><span class='ocrx_word' id='word_1_3' title='bbox 463 1045 2258 1171; x_wconf 30' lang='lat' dir='ltr'>TRANQUILLUSf</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 873 1313 1701 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 873 1313 1701 1388">
+     <span class='ocr_line' id='line_1_3' title="bbox 873 1313 1701 1388; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 873 1323 1061 1388; x_wconf 87' lang='lat' dir='ltr'>Notis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1106 1330 1167 1387; x_wconf 87' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1212 1313 1701 1387; x_wconf 79' lang='lat' dir='ltr'>Numismatibus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 241 1779 2316 1911">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 241 1779 2316 1911">
+     <span class='ocr_line' id='line_1_4' title="bbox 241 1779 2316 1911; baseline -0.013 1"><span class='ocrx_word' id='word_1_7' title='bbox 241 1790 1259 1911; x_wconf 88' lang='lat' dir='ltr'>CAROLO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1391 1779 2316 1900; x_wconf 85' lang='lat' dir='ltr'>PATINO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1066 2078 1426 2167">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1066 2078 1426 2167">
+     <span class='ocr_line' id='line_1_5' title="bbox 1066 2078 1426 2167; baseline -0.006 -23"><span class='ocrx_word' id='word_1_9' title='bbox 1066 2125 1084 2144; x_wconf 85' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1130 2078 1426 2167; x_wconf 56' lang='lat' dir='ltr'><em>Illtstrattffi</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
